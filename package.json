@@ -1,0 +1,19 @@
+{
+  "name": "bokersite",
+  "version": "1.0.0",
+  "description": "博客网站管理系统\r # 修改测试是否连接上github仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@BokerSite.github.com:NGC-Miracle/BokerSite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
